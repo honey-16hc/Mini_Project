@@ -1,121 +1,68 @@
 # Requirements
-
 ## Introduction
-* Knowing the units of measurement that correspond with a number can give you so much more information than a digit as a standalone. 
-
-* In a nutshell, the unit of measurement in science and math serves as the supporting pillar upon which a number rests.
-
-* **Unit conversion** is a process that involves multiplication or division by a numerical factor.
-
-* With the global flow of information that occurs these days, it is very important for everyone to learn these most basic conversion factors.
-
-* Keeping in mind all the conversion and inter-conversion processes may not be easy for everyone.
-
-* A metric conversion calculator is a tool that renders a helping hand by doing metric conversions in few seconds.
+- With the increase in population, the number of vehicles and traffic on roads are increasing too.
+- With increasing vehicular traffic and pollution on roads, managing such an amount of traffic has become very tough.
+- Potholes and road surface anomalies are the primary cause of road accidents.
+- Road conditions such as potholes, cracks, etc., should be identified to prevent road accidents and significant injuries.
+- A pothole can put the life of a driver and fellow passengers in danger.
 
 ## Research
-* During the French Revolution, the then existing measurement system was so impractical for trade and scientific purposes. 
 
-* So, it set the stage for the emergence of a system of measurement with rationally related units and simple rules for combining them.
-
-* Thus, a decimal based conversion system, called the Metric System,  was introduced and it was widely accepted by scientists of those days for being a rational system.
-
-* The metric system was devised with a aim “for all people, for all time.”
-
-* Today, the official system of measurement in most of the countries across the world is the metric system also known as the “International System of Units.
-
-* Though a standard system, there are many units within the metric systems and inter-conversion is tedious because one has to remember all the conversion factors.
-
-* Hence a tool that makes all these conversion immediately available will be a welcoming choice.
+- Potholes are a type of road damage caused by climate changes, vehicular traffic, road aging, and low-quality construction materials.
+- The major reason for formation of potholes is due to fatigue of the road surface, insufficient pavement thickness, and heavy rainfall.
+- In India, 70 percent of road accidents are because of poor road conditions.
+- It is a severe risk factor and also create problems for drivers as these can lead to a lot of damage to their vehicles.
+- Thus to avoid accidents and vehicle damage, we need first to detect potholes, which calls for pothole image classification.
 
 ## Cost and Features
-### *Cost*
-Since the system uses only open source software, it is free of cost..!!
 
-*TBD*
-
-### *Features*
-The various features/options for interconversion of the system are:
-1. Length
-2. Area
-3. Volume
-4. Mass
-5. Speed
+### Cost
+- The cost for pothole classification is nill since it uses open source software.
+- For pothole detection various tools will be used such as sensors and for deployment of software cost will be accordingly.
+### Features
 
 ## Defining the System
-![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
-    
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ## SWOT ANALYSIS
-![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
 
-# 4W&#39;s and 1&#39;H
+## 4W's and 1'H
+### Who:
+This will be helpful for drivers in avoiding potholes and a possible accident.  
+### What:
+A model to classify potholes and normal images to avoid potholes on the road.
+### When:
+When drivers face difficulty to identify the potholes due to the poor road conditions, which leads to severe accidents.
+### Where:
+While driving it is crucial to have information about the road surface through which the vehicle travels.
+### How:
+A machine learning-based pothole classification model to detect potholes in images. Images of roads with pothole and non-pothole are collected and preprocessed. Using CNN architecture the images are classified into normal and pothole images.
 
-## Who:
+## Detail requirements
+#### High Level Requirements:
+| ID        | Description           | Status   |
+| ------------- |:-------------:| -----:|
+| 01    | Image Dataset | Implemented |
+| 02    | Augmented Dataset |   Implemented |
+| 03    | CNN Model      |    Implemented |
+| 04    | Confusion matrix | Implemented |
+| 05    | Images with location in database      |   Future |
+| 06    | Alert on mobile      |    Future |
+### Low level Requirements:
+| ID        | Description           | Status   |
+| ------------- |:-------------:| -----:|
+| 01    | Pothole image Dataset | Implemented |
+| 02    | Non-Pothole image Dataset |   Implemented |
+| 03    | Horizontal-flipped image dataset      |    Implemented |
+| 04    | Vertical-flipped image dataset  | Implemented |
+| 05    | Zoom image dataset      |   Implemented |
+| 06    | Rescale image dataset      |    Implemented |
+| 07    | Rotation image Dataset | Implemented |
+| 08    | Shear image Dataset |   Implemented |
+| 09    | Width-shift image dataset      |    Implemented |
+| 10    | Height-shift image dataset  | Implemented |
+| 11    | VGG16 Architecture       |   Implemented |
+| 12    | Pothole images with location on cloud     |    Future |
+| 13    | Vehicle GPS tracking      |   Future |
+| 14    | Pothole warning on mobile      |    Future |
 
-The tool is a helping hand for young children who would like to counter verify their conversions and also for scientific researchers and mathematicians.
-
-## What:
-
-A metric conversion calculator that does metric conversions in few seconds.
-
-## When:
-
-When people are struggling with simple conversions or when kids would like to cross verify their answers while practicing or when people need conversion results in a jiffy to proceed on further with their calculations. 
-
-## Where:
-
-Can be put to use where simple or advanced scientific and mathematic calculations requiring conversions are involved.
-
-## How:
-
-The system opens up to the standard list of metric conversions that are available. Upon selection of one the standard system, the list of inter-conversions i.e., the sub-system is shown on the screen. The user can now choose one sub unit that needs to be converted into one or more other sub units that is available on the list.  The results for all these conversions are flashed in a second.
-
-# Detail requirements
-## High Level Requirements:
-
-|      ID          |Description                          |Status                         |
-|----------------|-------------------------------|-----------------------------|
-|HR_01|Length |Implemented|
-|HR_02|Area |Implemented|
-|HR_03|Volume|Implemented|
-|HR_04|Mass |Implemented|
-|HR_05|Speed |Implemented|
-|HR_06|Time|Future|
-|HR_07|Temperature|Future|
-
-
-
-##  Low level Requirements:
-|      ID          |Description                          |  HLR_ID  |Status               |
-|----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Meter|HR_01|Implemented|
-|LR_02|Centimeter|HR_01|Implemented|
-|LR_03|Foot|HR_01|Implemented|
-|LR_04|Inch|HR_01|Implemented|
-|LR_05|Millimeter|HR_01|Implemented|
-|LR_06|Square Meter|HR_02|Implemented|
-|LR_07|Square Centimeter|HR_02|Implemented|
-|LR_08|Square Foot|HR_02|Implemented|
-|LR_09|MSquare Inch|HR_02|Implemented|
-|LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Cubic Meter|HR_03|Implemented|
-|LR_12|Cubic Centimeter|HR_03|Implemented|
-|LR_13|Litre|HR_03|Implemented|
-|LR_14|Millilitre|HR_03|Implemented|
-|LR_15|Gallon (imperial)|HR_03|Implemented|
-|LR_16|Kilogram|HR_04|Implemented|
-|LR_17|Gram|HR_04|Implemented|
-|LR_18|Ounce|HR_04|Implemented|
-|LR_19|Tonne (metric)|HR_04|Implemented|
-|LR_20|Pound|HR_04|Implemented|
-|LR_21|Meter per Second|HR_05|Implemented|
-|LR_22|Kilometer per Hour|HR_05|Implemented|
-|LR_23|Miles per Hour|HR_05|Implemented|
-|LR_24|Foot per Second|HR_05|Implemented|
-|LR_25|Knot|HR_05|Implemented|
-|LR_26|Hour|HR_06|Future|
-|LR_27|Minute|HR_06|Future|
-|LR_28|Second|HR_06|Future|
-|LR_29|Celcius|HR_07|Future|
-|LR_30|Farenheit|HR_07|Future|
-|LR_31|Kelvin|HR_07|Future|
