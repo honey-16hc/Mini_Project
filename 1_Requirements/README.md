@@ -22,7 +22,7 @@
 ### Features
 
 ## Defining the System
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/honey-16hc/Pothole_Detection_Mini_Project/blob/main/1_Requirements/swot%20analysis.jpg?raw=true)
 
 ## SWOT ANALYSIS
 
