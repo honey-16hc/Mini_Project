@@ -8,9 +8,9 @@
 
 ## Research
 
-- Truman Shen, Gregory Schamp, Mario Haddad explored Stereo vision-based road surface preview in 2014. This paper proposes the use of Takata’s stereo-vision system for performing a road surface preview along with the host vehicle. [ref] (https://ieeexplore.ieee.org/abstract/document/6957961?casa_token=AzfkVTsH3XEAAAAA:uMBG5kbQ8Bg2HFRJl0vbMtwtHW7J_QVuivbc1Ulxu3txLP1DgTvx5Sl4TVGuXa_3aRosqlEb6Xg)
-- Manjusha Ghadge, Dheeraj Pandey, Dhananjay Kalbande used an accelerometer and GPS to analyze road conditions. [ref] (https://ieeexplore.ieee.org/abstract/document/7456932)
-- A.TedeschiF, Benedetto used various technologies of the OpenCV library to classify three different types of road distresses. This system identifies road distress, fatigue cracks, longitudinal and traversal cracks, and potholes in real-time. [ref] (https://www.sciencedirect.com/science/article/pii/S1474034616301197?casa_token=zkur3F9ZoqcAAAAA:EERBlOi_zX74pszRRhFx3dzMuez8WkA1NH_NRE_r8uEQptTM9nnUGzrpFKFF2KYxNvjXW3RtLSE)
+- [Truman Shen, Gregory Schamp, Mario Haddad explored Stereo vision-based road surface preview in 2014. This paper proposes the use of Takata’s stereo-vision system for performing a road surface preview along with the host vehicle.](https://ieeexplore.ieee.org/abstract/document/6957961?casa_token=AzfkVTsH3XEAAAAA:uMBG5kbQ8Bg2HFRJl0vbMtwtHW7J_QVuivbc1Ulxu3txLP1DgTvx5Sl4TVGuXa_3aRosqlEb6Xg)
+- [Manjusha Ghadge, Dheeraj Pandey, Dhananjay Kalbande used an accelerometer and GPS to analyze road conditions.](https://ieeexplore.ieee.org/abstract/document/7456932)
+- [A.TedeschiF, Benedetto used various technologies of the OpenCV library to classify three different types of road distresses. This system identifies road distress, fatigue cracks, longitudinal and traversal cracks, and potholes in real-time.](https://www.sciencedirect.com/science/article/pii/S1474034616301197?casa_token=zkur3F9ZoqcAAAAA:EERBlOi_zX74pszRRhFx3dzMuez8WkA1NH_NRE_r8uEQptTM9nnUGzrpFKFF2KYxNvjXW3RtLSE)
 
 
 ## Cost and Features
