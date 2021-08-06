@@ -8,11 +8,10 @@
 
 ## Research
 
-- Potholes are a type of road damage caused by climate changes, vehicular traffic, road aging, and low-quality construction materials.
-- The major reason for formation of potholes is due to fatigue of the road surface, insufficient pavement thickness, and heavy rainfall.
-- In India, 70 percent of road accidents are because of poor road conditions.
-- It is a severe risk factor and also create problems for drivers as these can lead to a lot of damage to their vehicles.
-- Thus to avoid accidents and vehicle damage, we need first to detect potholes, which calls for pothole image classification.
+- Truman Shen, Gregory Schamp, Mario Haddad explored Stereo vision-based road surface preview in 2014. This paper proposes the use of Takata’s stereo-vision system for performing a road surface preview along with the host vehicle.
+- Manjusha Ghadge, Dheeraj Pandey, Dhananjay Kalbande used an accelerometer and GPS to analyze road conditions.
+- A.TedeschiF, Benedetto used various technologies of the OpenCV library to classify three different types of road distresses. This system identifies road distress, fatigue cracks, longitudinal and traversal cracks, and potholes in real-time.
+
 
 ## Cost and Features
 
@@ -22,9 +21,9 @@
 ### Features
 
 ## Defining the System
-![alt text](https://github.com/honey-16hc/Pothole_Detection_Mini_Project/blob/main/1_Requirements/swot%20analysis.jpg?raw=true)
-
+The project aims to build a model that can classify pothole images. To increase the accuracy of model various data augmentation technique has been used on the dataset.
 ## SWOT ANALYSIS
+![alt text](https://github.com/honey-16hc/Pothole_Detection_Mini_Project/blob/main/1_Requirements/swot%20analysis.jpg?raw=true)
 
 ## 4W's and 1'H
 ### Who:
