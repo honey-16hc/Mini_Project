@@ -1,8 +1,8 @@
 # Pothole_Classification_Mini_Project
 
-- Pothole is a type of disruption/disturbance in the surface of roadway where a portion of the road material has broken away, leaving a hole. Also defined as cavity in a road surface.
-- About 70 percent of the road accidents in India takes place due to improper construction of roads and due to unpredictable fatigue of roads, Heavy rainfall and insufficient pavement thickness.
-- Anomalies in road surface not only impact road quality but also affect driver safety, mechanic structure of the vehicles, and fuel consumption.
+- Pothole is defined as cavity in a road surface. Potholes affect road  quality,  driver  safety,  vehicle  structure,  and  fuel  consumption.
+- In developing countries where resources are limited, using artificial intelligence methods to detect and classify potholes can help to improve road conditions. 
+- The proposed method based on convolutional neural networks does have the potential to compete with the existing techniques of pothole classification.
 
 # Folder Structure
 | Folder        | Description           | 
