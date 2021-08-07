@@ -3,8 +3,8 @@
 - With the increase in population, the number of vehicles and traffic on roads are increasing too.
 - With increasing vehicular traffic and pollution on roads, managing such an amount of traffic has become very tough.
 - Potholes and road surface anomalies are the primary cause of road accidents.
-- Road conditions such as potholes, cracks, etc., should be identified to prevent road accidents and significant injuries.
 - A pothole can put the life of a driver and fellow passengers in danger.
+- To avoid accidents and vehicle damage, we need first to detect potholes.
 
 ## Research
 
@@ -16,10 +16,10 @@
 ## Cost and Features
 
 ### Cost
-- The cost for pothole classification is nill since it uses open source software.
-- For pothole detection various tools will be used such as sensors and for deployment of software cost will be accordingly.
+- 	Using vibration and 3D reconstruction  based methods have high setup and equipment cost with low accuracy but using Convolutional neural network architecture provides high accuracy at nill cost since it uses open source software. 
 ### Features
-
+- The Convolutional neural network is well suited for detecting complex features of an image. 
+- In conventional image classifiers, we obtain features like edge detection,  but in Convolutional neural network, it has trainable feature extractor and classifier that extracts features like edge at the first layer, and the object is classified at the last layer.
 ## Defining the System
 The project aims to build a model that can classify pothole images. To increase the accuracy of model various data augmentation technique has been used on the dataset.
 ## SWOT ANALYSIS
