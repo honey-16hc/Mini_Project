@@ -1,14 +1,11 @@
-# test plan and test ouput
+# Test plan and Test output
 
 ## Integration test (High level test)
-* quantity convertor function - calling file extraction function and conversion function - Scenario based test - Passing
+* Model trained on Dataset and classifies pothole or normal images - Requirement based test - Passing
 
 ## Unit Test (Low level test)
-* length options function - Requirement based test - Passing
-* area options function - Requirement based test - Passing
-* volume options function - Requirement based test - Passing
-* mass options function - Requirement based test - Passing
-* speed options function - Requirement based test - Passing
-* file extraction function - Scenario based test - Passing
-* conversion function - Scenario based test - Passing
-* print output table - - Scenario based test - Passing
+* Data preprocessing - Requirement based test - Passing
+* Dataset by performing various data augmentation techniques - Requirement based test - Passing
+* Loading various augmented dataset to train model - Requirement based test - Passing
+* Is Model Trained - Requirement based test - Passing
+* Classifying pothole and non-pothole images - Requirement based test - Passing
