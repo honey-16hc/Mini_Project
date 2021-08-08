@@ -4,12 +4,12 @@
 - The proposed method based on convolutional neural networks does have the potential to compete with the existing techniques of pothole classification.
 
 
-| Code Quality        | Description           | 
+| Code Quality        | [Git Inspector](using github.io option)        | 
 | ------------- |:-------------:| 
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/96c116a42a654f62995a2391bce6b7a9)](https://www.codacy.com/gh/honey-16hc/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=honey-16hc/Mini_Project&amp;utm_campaign=Badge_Grade)    |  | 
 
 # Folder Structure
-| Folder        | [Git Inspector](using github.io option)           | 
+| Folder        |      Description         | 
 | ------------- |:-------------:| 
 | 1_Requirements    | Documents detailing requirements and research | 
 | 2_Design    | 	Documents specifying design details | 
