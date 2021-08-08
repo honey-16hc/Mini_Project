@@ -15,3 +15,8 @@
 | 2_Design    | 	Documents specifying design details | 
 | 3_Implementation    | All code and documentation      |   
 | 4_Test_plan    |Documents with test plans and procedures |
+
+# Contributors List and Summary
+| Name        |      Features         |    Issuess Raised         |    Issues Resolved         |    No Test Cases         |    Test Case Pass         | 
+| ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:| 
+| Honey Chaudhary    | Pothole classification | Nill | Nill | 8 | Yes |
