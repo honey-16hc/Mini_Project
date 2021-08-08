@@ -8,7 +8,7 @@
 | ------------- |:-------------:| 
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/96c116a42a654f62995a2391bce6b7a9)](https://www.codacy.com/gh/honey-16hc/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=honey-16hc/Mini_Project&amp;utm_campaign=Badge_Grade)    |[![Codacy Badge](https://www.code-inspector.com/project/26185/score/svg)   |
 
-# Folder Structure
+## Folder Structure
 | Folder        |      Description         | 
 | ------------- |:-------------:| 
 | 1_Requirements    | Documents detailing requirements and research | 
@@ -16,15 +16,15 @@
 | 3_Implementation    | All code and documentation      |   
 | 4_Test_plan    |Documents with test plans and procedures |
 
-# Contributors List and Summary
+## Contributors List and Summary
 | Name        |      Features         |    Issuess Raised         |    Issues Resolved         |    No Test Cases         |    Test Case Pass         | 
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:| 
 | Honey Chaudhary    | Pothole classification | Nill | Nill | 6 | Yes |
 
-# Challenges Faced and How Was It Overcome
+## Challenges Faced and How Was It Overcome
 Less accuracy due to small size of dataset and it was resolved by increasing the dataset size using various data augmentation techniques.
 
-# Learning Resources
+## Learning Resources
 1. [Code inspector](https://frontend.code-inspector.com/)
 2. [codacy](https://app.codacy.com/)
 3. [medium](https://medium.com/)
