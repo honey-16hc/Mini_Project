@@ -19,4 +19,12 @@
 # Contributors List and Summary
 | Name        |      Features         |    Issuess Raised         |    Issues Resolved         |    No Test Cases         |    Test Case Pass         | 
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:| 
-| Honey Chaudhary    | Pothole classification | Nill | Nill | 8 | Yes |
+| Honey Chaudhary    | Pothole classification | Nill | Nill | 6 | Yes |
+
+# Challenges Faced and How Was It Overcome
+Less accuracy due to small size of dataset and it was resolved by increasing the dataset size using various data augmentation techniques.
+
+# Learning Resources
+1. [Code inspector](https://frontend.code-inspector.com/)
+2. [codacy](https://app.codacy.com/)
+3. [medium](https://medium.com/)
